@@ -1,0 +1,6 @@
+.env
+.venv
+snapshot/
+.cadence
+snap.py
+.cursorignore

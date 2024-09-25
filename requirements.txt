@@ -1,0 +1,44 @@
+# Web application framework
+streamlit
+
+# OpenAI API client
+openai
+
+# Environment variable management
+python-dotenv
+
+# Asynchronous HTTP requests
+aiohttp
+
+# File handling
+PyPDF2
+python-docx
+docx2txt
+
+# Document conversion
+pypandoc
+
+# Data manipulation and analysis
+pandas
+
+# Date and time manipulation
+python-dateutil
+
+# Progress bars
+tqdm
+
+# Async support for Streamlit
+asyncio
+
+# ZIP file handling
+zipfile36
+
+# Logging
+logging
+
+langchain
+langchain_community
+langchain-openai
+
+pydantic
+requests
