@@ -97,10 +97,4 @@ Contributions to TechDojo are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature-name`)
 5. Create a new Pull Request
 
-## License
 
-[Insert your chosen license here]
-
----
-
-For more information or support, please contact [Your Contact Information].
