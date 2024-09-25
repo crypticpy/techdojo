@@ -1,6 +1,6 @@
-# KBDojoToo
+# TechDojo
 
-KBDojoToo is an advanced AI-powered knowledge base management and technical support system designed to streamline IT support processes, generate comprehensive KB articles, and provide intelligent routing for support tickets.
+TechDojo is an advanced AI-powered knowledge base management and technical support system designed to streamline IT support processes, generate comprehensive KB articles, and provide intelligent routing for support tickets.
 
 ## Table of Contents
 
@@ -49,8 +49,8 @@ KBDojoToo is an advanced AI-powered knowledge base management and technical supp
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/KBDojoToo.git
-   cd KBDojoToo
+   git clone https://github.com/your-username/techdojo.git
+   cd techdojo
 
 2. Create and activate a virtual environment:
    python -m venv .venv
@@ -69,7 +69,7 @@ To run the application:
 
 streamlit run app.py
 
-Navigate to the provided URL (usually `http://localhost:8501`) in your web browser to access the KBDojoToo interface.
+Navigate to the provided URL (usually `http://localhost:8501`) in your web browser to access the TechDojo interface.
 
 ## Components
 
@@ -89,7 +89,7 @@ Adjust the following files to customize the application:
 
 ## Contributing
 
-Contributions to KBDojoToo are welcome! Please follow these steps:
+Contributions to TechDojo are welcome! Please follow these steps:
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/your-feature-name`)
